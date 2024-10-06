@@ -1,5 +1,5 @@
 dataformCoreVersion: 3.0.4
 defaultProject: dataops-dataform
 defaultLocation: australia-southeast1
-defaultDataset: dataops-main
-defaultAssertionDataset: dataops-main-assertions
+defaultDataset: dataops_main
+defaultAssertionDataset: dataops_main_assertions
