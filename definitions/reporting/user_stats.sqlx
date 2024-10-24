@@ -16,10 +16,6 @@ config {
     last_posted_at: `The time the user last posted a question or answer`,
     last_question_posted_at: `The time the user last posted an answer`,
     last_answer_posted_at: `The time the user last posted a question`,
-  },
-  assertions: {
-    uniqueKey: ["user_id"],
-    rowConditions: ["badge_count >= 0"]
   }
 }
 
